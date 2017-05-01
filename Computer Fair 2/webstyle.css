@@ -1,0 +1,389 @@
+*{
+padding: 0;
+border: 0;
+background-color: #c9b280;
+margin-left:0px;
+margin-right:0px;
+}
+
+.beauty{
+text-align: center;
+color:#3d2b06;
+text-transform: uppercase;
+margin: 50px;
+margin-bottom: 10px;
+margin-top: 50px;
+}
+
+.mid{
+ font-family: 'Fjalla One', sans-serif;
+ margin: 20px;
+}
+
+.parttwo{
+font-family: 'Cantarell', sans-serif;
+ margin: 20px;
+}
+
+hr{
+height: 0;
+max-height: 0;
+font-size: 1px;
+line-height: 0;
+clear: both;
+display: block;
+position: relative;
+padding: 0;
+width: 100%;
+font-size: 1px;
+line-height: 0;
+border: none;
+border-top: .5px solid #3d2b06;
+}
+
+.button{
+text-decoration:none;
+color: #3d2b06;
+display: inline;
+height: 50px;
+width: 100px;
+border: 2px solid #3d2b06;
+text-align: center
+font: bold 3.2em/100px;
+font-family: 'Cantarell', sans-serif;
+background-color: none;
+border-radius: 0px;
+text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+font-size: 24px;
+margin:20px;
+cursor:pointer;
+}
+
+.button:hover {
+color: #ed80c3;
+border-color: #ed80c3;
+}
+
+.bigbutton{
+text-decoration:none;
+display:inline-block;
+width: 720px;
+height:360px;
+text-align: center;
+float: left;
+color:white;
+font-size:40px;
+font-family: 'Cantarell', sans-serif;
+padding:0px;
+cursor: :pointer;
+border: 0;
+border-radius: 0;
+line-height: 360px;
+box-sizing: border-box;
+border: none;
+}
+
+#press:hover{
+background-color:#514246;
+}
+
+#present:hover{
+background-color:#514246;
+}
+
+#acknowledge:hover{
+background-color:#514246;
+}
+#links:hover{
+background-color:#514246;
+}
+
+]
+.Dates{
+	margin:20;
+	margin-top:20px;
+}
+
+#press{
+	background-color:#ef7d53;
+	margin-top:20px;
+	margin-bottom:0px;
+
+}
+
+#present{
+	background-color:#efec52;
+	margin-top:20px;
+}
+
+#acknowledge{
+	background-color:#8be22d;
+}
+
+#links{
+	background-color:#39c6aa;
+}
+.see{
+	font-family: 'Cantarell', sans-serif;
+}
+
+#paragraph{
+	margin:20px;
+}
+
+.help{
+	margin: 20px;
+}
+
+.dropbtn {
+    color: #3d2b06;
+    cursor: pointer;
+    line-height: 10px;
+    text-align: center;
+    font-weight: 50px;
+    width: 45px;
+    height: 10px;
+    background-color: #3d2b06;
+    margin: 6px;
+
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+   .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #ed80c3;
+}
+
+.Choruspractice{
+	font-family: 'Cantarell', sans-serif;
+	text-align: center;
+    color:#3d2b06;
+	margin: 50px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+}
+
+.casthead{
+	text-align: center;
+	color:#3d2b06;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+}
+.castlist{
+	font-family: 'Cantarell', sans-serif;
+ 	margin: 20px;
+ 	text-align: center;
+}
+
+.songbutton{
+	text-decoration:none;
+	color: #3d2b06;
+	display: inline;
+	height: 50px;
+	width: 100px;
+	border: none;
+	text-align: center
+	font: bold 3.2em/100px;
+	font-family: 'Cantarell', sans-serif;
+	background-color: none;;
+	border-radius: 0px;
+	text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+	font-size: 24px;
+	margin:20px;
+	cursor:pointer;
+	line-height:50px;
+}
+
+.songbutton:hover{
+color: #bae0f2;
+}
+
+#bellelyrics{
+	background-color:#ef7d53;
+}
+
+#gastonlyrics{
+	background-color: #efec52;
+}
+
+#beourguestlyrics{
+	background-color: #8be22d;
+}
+
+#beautyandthebeastlyrics{
+	background-color: #39c6aa;
+}
+
+#humanagainlyrics{
+	background-color: #5756b7;
+}
+
+#finalelyrics{
+	background-color: #8f3baa;
+}
+
+#mobsonglyrics{
+	background-color:#f235cc;
+}
+
+.songhead{
+  text-align: center;
+  color:#3d2b06;
+  text-transform: uppercase;
+  margin: 50px;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  margin: 20px;
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.songlist{
+ 	text-align: center;
+	color:#3d2b06;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+ 	margin: 20px;
+ 	font-size: 20px;
+ 	font-family: 'Fjalla One', sans-serif;
+}
+
+.bellericshead{
+	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+}
+
+.actuallyrics{
+	text-align: center;
+	color:#3d2b06;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+ 	margin: 20px;
+ 	font-size: 20px;
+ 	font-family: 'Cantarell', sans-serif;
+  list-style: none;
+}
+
+.guestricshead{
+	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+}
+
+.gastonricshead{
+	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+}
+.humanricshead{
+	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+}
+.finalericshead{
+	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+}
+.mobricshead{
+	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+ }
+ .bbricshead{
+ 	text-align: center;
+	color:#5C821A;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+	margin-top: 50px;
+	font-family: 'Fjalla One', sans-serif;
+ 	font-size:35px;
+}
+
+.abouthead{
+  text-align: center;
+  color:#5C821A;
+  text-transform: uppercase;
+  margin: 50px;
+  margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+  margin-top: 50px;
+  font-family: 'Fjalla One', sans-serif;
+  font-size:35px;
+}
+
+.sourceshead{
+  text-align: center;
+  color:#5C821A;
+  text-transform: uppercase;
+  margin: 50px;
+  margin-bottom: font-family: 'Fjalla One', sans-serif;5px;
+  margin-top: 50px;
+  font-family: 'Fjalla One', sans-serif;
+  font-size:35px;
+}

@@ -1,0 +1,43 @@
+body {
+	background-color: rgb(240,211,70);
+	}
+h1 {color: black; text-align: center; 
+	font-family: "verdana;" }
+section {
+	font-family "Comic Sans MS";
+	}
+	.button{
+		display: block;
+		height: 100px;
+		width: 100px;
+		background: #34696f;
+		border: 2px solid rgba (33, 68, 72, 0.59);
+		color: white;
+		text-align: center;
+		float: left;
+		font: bold 1em/100px "Helvectica";
+		background: -webkit-linear-gradient(top, #022968, #0a3984);
+		background: -moz-linear-gradient(top, #022968, #0a3984);
+		background: -o-linear-gradient(top, #022968, #0a3984;
+		background: -ms-linear-gradient(top, #022968, #0a3984);
+		background: linear-gradient(top, #022968, #0a3984);
+		-webkit-border-radius: 50px;
+		-khtml-border-radius: 50px;
+		-moz-border-radius: 50px;
+		border-radius: 50px;
+		-webkit-box-shadow: 0 8px 0 #1b383b;
+		-moz-box-shadow: 0 8px 0 #1b383b;
+		box-shadow: 0 8px 0 #1b383b;
+		text-shadow; 0 2px 2px rgba(255,255,255,0.2)
+		}
+		a.button{
+		text-decoration:none
+		}
+		a.button:hover {
+		background: #3d7a80;
+		background: -webkit-linear-gradient(top, #789cdb, #2c5eb7);
+		background: -moz-linear-gradient(top,#789cdb, #2c5eb7);
+		background: -o-linear-gradient(top, #789cdb, #2c5eb7);
+		background: -ms-linear-gradient(top,#789cdb, #2c5eb7);
+		background: linear-gradient(top, #789cdb, #2c5eb7);
+		}
